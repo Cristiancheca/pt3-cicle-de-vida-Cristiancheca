@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Veces_crear">Vegades_Creat</string>
+    <string name="Veces_resumen">Vegades_Resum</string>
+    <string name="Veces_Reinicio">Vegades_reinici</string>
+    <string name="Veces_Inicio">Vegades_Inici</string>
+    <string name="Veces_Pausa">Vegades_Pausa</string>
+    <string name="Veces_Parada">Vegades_detingut</string>
+    <string name="Veces_destruido">Vegades_Destruides</string>
+</resources>

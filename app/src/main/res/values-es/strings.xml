@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Veces_crear">Veces_creado</string>
+    <string name="Veces_resumen">Veces_resumen</string>
+    <string name="Veces_Reinicio">Veces_Reinicio</string>
+    <string name="Veces_Inicio">Veces_Inicio</string>
+    <string name="Veces_Pausa">Veces_Pausa</string>
+    <string name="Veces_Parada">Veces_parada</string>
+    <string name="Veces_destruido">Veces_destruidas</string>
+</resources>

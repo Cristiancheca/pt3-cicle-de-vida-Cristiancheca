@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Veces_crear">Times_create</string>
+    <string name="Veces_resumen">summary_times</string>
+    <string name="Veces_Reinicio">Reset_Times</string>
+    <string name="Veces_Inicio">Start_Times</string>
+    <string name="Veces_Pausa">Times_Pause</string>
+    <string name="Veces_Parada">Stop_Times</string>
+    <string name="Veces_destruido">times_destroyed</string>
+</resources>
